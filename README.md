@@ -48,3 +48,7 @@ sudo ./install.sh
 - ставить ли `Docker/Compose` и `Fail2ban`
 
 После установки сервис поднимается автоматически.
+
+## Поддержать Автора
+
+Trust Wallet BTC: `bc1qzgtq42l0pv6p8f3t4r9ld499m5t4n0e28frsrp`
