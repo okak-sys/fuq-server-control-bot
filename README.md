@@ -1,5 +1,7 @@
 # FUQ Telegram Linux Control Bot
 
+Status: `Beta`
+
 Полностью рабочий Telegram-бот на `aiogram 3.x` для управления Linux-сервером через одно основное сообщение с `edit_text`.
 
 ## Что реализовано
